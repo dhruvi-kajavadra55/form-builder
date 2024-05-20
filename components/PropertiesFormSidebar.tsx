@@ -1,3 +1,4 @@
+'use client'
 import React from 'react'
 import useDesigner from './hooks/useDesigner'
 import { FormElements } from './FormElements';

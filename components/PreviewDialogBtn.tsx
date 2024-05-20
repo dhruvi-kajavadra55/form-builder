@@ -1,3 +1,4 @@
+'use client'
 import React from 'react'
 import { Button } from './ui/button'
 import { MdPreview } from 'react-icons/md'

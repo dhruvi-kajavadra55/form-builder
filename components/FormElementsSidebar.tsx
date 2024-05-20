@@ -1,3 +1,4 @@
+'use client'
 import React from 'react'
 import SidebarBtnElement from './SidebarBtnElement'
 import { FormElements } from './FormElements'
