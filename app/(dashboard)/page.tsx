@@ -125,7 +125,7 @@ function FormCardSkeleton() {
 async function FormCards() {
   const forms = await GetForms();
   return <>
-  {forms.map((form: Form) => (
+  {forms.map(form => (
     <FormCard key={form.id} form={form} />
   ))}
   </>
