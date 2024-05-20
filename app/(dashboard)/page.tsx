@@ -1,4 +1,4 @@
-import { GetFormStats, GetForms } from "@/actions/form"
+import { GetFormStats, GetForms } from "@/app/actions/form"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { Skeleton } from "@/components/ui/skeleton";
 import { ReactNode, Suspense } from "react";

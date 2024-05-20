@@ -14,7 +14,7 @@ import {
 } from "./ui/alert-dialog";
 import { FaSpinner } from 'react-icons/fa';
 import { toast } from './ui/use-toast';
-import { PublishForm } from '@/actions/form';
+import { PublishForm } from '@/app/actions/form';
 import { useRouter } from 'next/navigation';
 
 const PublishFormBtn = ({id}: {id: number}) => {

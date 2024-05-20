@@ -26,7 +26,7 @@ import { Input } from './ui/input';
 import { Textarea } from './ui/textarea';
 import { toast } from './ui/use-toast';
 import { formSchema, formSchemaType } from '@/schemas/form';
-import { CreateForm } from '@/actions/form';
+import { CreateForm } from '@/app/actions/form';
 import { BsFileEarmarkPlus } from 'react-icons/bs'
 import { useRouter } from 'next/navigation';
 

@@ -1,4 +1,4 @@
-import { GetFormById, GetFormWithSubmissions } from '@/actions/form';
+import { GetFormById, GetFormWithSubmissions } from '@/app/actions/form';
 import FormBuilder from '@/components/FormBuilder';
 import FormLinkShare from '@/components/FormLinkShare';
 import VisitBtn from '@/components/VisitBtn';
